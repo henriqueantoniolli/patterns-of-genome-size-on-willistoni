@@ -1,0 +1,9 @@
+sp	GS
+Dpaulistorum	260.4
+Dpaulistorum_andeanbrazilian	221.3
+Dequinoxialis	273.84
+Dwillistoni	220.05
+Dtropicalis	225.1
+Dinsularis	233.6
+Dsucinea	205.38
+Dsturtevanti	174.2
