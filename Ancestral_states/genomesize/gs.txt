@@ -1,0 +1,9 @@
+sp	GS_Size
+Dequinoxialis	273.84
+Dinsularis	233.6
+Dpaulistorum	260.4
+Dpaulistorum_andeanbrazilian	221.3
+Dsturtevanti	174.2
+Dsucinea	205.38
+Dtropicalis	225.1
+Dwillistoni	220.05
