@@ -1,0 +1,17 @@
+sp,REF
+Lmagnipectinata,0.2199
+Lstackelbergi,0.2154
+Lclarofinis,0.1933
+Lmommai,0.2232
+Lcollinella,0.2278
+Dneocordata,0.2333
+Dsaltans,0.3051
+Dprosaltans,0.2634
+Dsturtevanti,0.2144
+Dsucinea,0.1732
+Dinsularis,0.3003
+Dtropicalis,0.3288
+Dwillistoni,0.3578
+Dequinoxialis,0.3302
+Dpaulistorum_andeanbrazilian,0.3789
+Dpaulistorum,0.4102
