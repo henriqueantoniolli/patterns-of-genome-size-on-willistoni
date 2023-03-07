@@ -1,9 +1,0 @@
-sp	REF
-Dpaulistorum	0.4102
-Dpaulistorum_andeanbrazilian	0.3789
-Dequinoxialis	0.3302
-Dwillistoni	0.3578
-Dtropicalis	0.3288
-Dinsularis	0.3003
-Dsucinea	0.1732
-Dsturtevanti	0.2144
