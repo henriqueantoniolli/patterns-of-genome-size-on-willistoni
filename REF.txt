@@ -1,0 +1,8 @@
+sp,REF
+Dsucinea,0.1732
+Dinsularis,0.3003
+Dtropicalis,0.3288
+Dwillistoni,0.3578
+Dequinoxialis,0.3302
+Dpaulistorum_andeanbrazilian,0.3789
+Dpaulistorum,0.4102
